@@ -1,0 +1,4 @@
+﻿  3_6.cpp
+C:\Moje dokumenty\Cpp\3\3_6\3_6\3_6.cpp(8,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Moje dokumenty\Cpp\3\3_6\3_6\3_6.cpp(9,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  3_6.vcxproj -> C:\Moje dokumenty\Cpp\3\3_6\x64\Debug\3_6.exe

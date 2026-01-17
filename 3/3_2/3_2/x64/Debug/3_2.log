@@ -1,0 +1,5 @@
+﻿  3_2.cpp
+C:\Moje dokumenty\Cpp\3\3_2\3_2\3_2.cpp(12,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Moje dokumenty\Cpp\3\3_2\3_2\3_2.cpp(13,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Moje dokumenty\Cpp\3\3_2\3_2\3_2.cpp(34,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3_2.vcxproj -> C:\Moje dokumenty\Cpp\3\3_2\x64\Debug\3_2.exe

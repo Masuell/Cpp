@@ -1,0 +1,5 @@
+﻿  7_3.cpp
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\7\7_3\7_3\7_3.cpp(20,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\7\7_3\7_3\7_3.cpp(20,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\7\7_3\7_3\7_3.cpp(20,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  7_3.vcxproj -> C:\Moje dokumenty\Cpp\Mistrovstvi cpp\7\7_3\x64\Debug\7_3.exe

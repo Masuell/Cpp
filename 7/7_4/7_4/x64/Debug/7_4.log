@@ -1,0 +1,5 @@
+﻿  7_4.cpp
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\7\7_4\7_4\7_4.cpp(15,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\7\7_4\7_4\7_4.cpp(15,21): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\7\7_4\7_4\7_4.cpp(18,62): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  7_4.vcxproj -> C:\Moje dokumenty\Cpp\Mistrovstvi cpp\7\7_4\x64\Debug\7_4.exe

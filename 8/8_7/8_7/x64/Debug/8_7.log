@@ -1,0 +1,16 @@
+﻿  8_7.cpp
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\8\8_7\8_7\8_7.cpp(62,10): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\8\8_7\8_7\8_7.cpp(62,10): warning C4244:         with
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\8\8_7\8_7\8_7.cpp(62,10): warning C4244:         [
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\8\8_7\8_7\8_7.cpp(62,10): warning C4244:             T=double
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\8\8_7\8_7\8_7.cpp(62,10): warning C4244:         ]
+      C:\Moje dokumenty\Cpp\Mistrovstvi cpp\8\8_7\8_7\8_7.cpp(62,10):
+      the template instantiation context (the oldest one first) is
+          C:\Moje dokumenty\Cpp\Mistrovstvi cpp\8\8_7\8_7\8_7.cpp(39,2):
+          see reference to function template instantiation 'void SumArray<double>(T *[],int)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+  8_7.vcxproj -> C:\Moje dokumenty\Cpp\Mistrovstvi cpp\8\8_7\x64\Debug\8_7.exe

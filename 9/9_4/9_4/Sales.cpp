@@ -4,13 +4,13 @@
 using namespace SALES;
 void SALES::setSales(SALES::Sales& s, const double ar[], size_t n)
 {
+	double sum = 0;
+	double min = ar[0];
+	double max = ar[0];
 	if (n > 4)
 		n = 4;
 	if (n > 0)
 	{
-		double sum = 0;
-		double min = ar[0];
-		double max = ar[0];
 		for (size_t i = 0; i < n; i++)
 		{
 			s.sales[i] = 0;

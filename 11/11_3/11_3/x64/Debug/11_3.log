@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\11\11_3\11_3\main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\11\11_3\11_3\main.cpp(50,15): warning C4018: '<': signed/unsigned mismatch
+C:\Moje dokumenty\Cpp\Mistrovstvi cpp\11\11_3\11_3\main.cpp(52,15): warning C4018: '>': signed/unsigned mismatch
+  11_3.vcxproj -> C:\Moje dokumenty\Cpp\Mistrovstvi cpp\11\11_3\x64\Debug\11_3.exe
